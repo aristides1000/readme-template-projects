@@ -1,4 +1,9 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=557C94&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/mdn%20web%20docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=000000&logoSize=auto&labelColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=ECD53F&logoSize=auto&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=D30001&labelColor=black)
 
 # Project Name
 
